@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: joshuafullmer-page
-        image: gcr.io/potent-galaxy-274115/joshuafullmer-page
+        image: gcr.io/cit-262-group3/joshuafullmer-page
         ports:
         - containerPort: 80
         resources:
